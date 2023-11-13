@@ -11,9 +11,12 @@ class Person {
 }
 
 
-const person1 = new Person("John Doe", 25, "123 Main St, Cityville");
+const person1 = new Person("sudhir", 28, "kulithalai");
+const person2 = new Person("mathan", 32, "kulithalai");
 
 person1.displayInfo();
+
+person2.displayInfo();
 
 
 
